@@ -22,8 +22,10 @@
   },
   "homepage": "https://github.com/amlannandy/BurgerBuilder#readme",
   "dependencies": {
+    "firebase": "^9.8.3",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-query": "^3.39.1"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
@@ -38,7 +40,6 @@
     "babel-loader": "^8.0.6",
     "cross-env": "^6.0.3",
     "eslint": "^8.14.0",
-    "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.29.4",
