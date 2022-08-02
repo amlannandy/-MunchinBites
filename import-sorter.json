@@ -12,7 +12,7 @@
       "disableSort": true
     },
     {
-      "regex": "^(components|containers|context|services|hooks)",
+      "regex": "^(components|containers|context|services|hooks|styles)",
       "orderLevel": 40
     },
     {
